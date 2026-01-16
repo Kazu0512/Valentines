@@ -36,6 +36,9 @@ on your computer : Move the photos: Take the photos you want to use and move the
 Rename them: To make it easy, rename them something simple like photo1.jpg, photo2.jpg, and photo3.jpg.
 
 Update the Code: In VS Code or note pad++, find the <img> tags. Change the src attribute to match your file names:
+<div class="polaroid p1"><img src="photo1.jpg"> </div>
+<div class="polaroid p2"><img src="photo2.jpg"> </div>
+<div class="polaroid p3"><img src="photo3.jpg"> </div>
 
 3. Add your song:
 The Ultimate "Hack" for VS Code or Note pad ++
